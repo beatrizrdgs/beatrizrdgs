@@ -4,14 +4,14 @@
 
 ## 🚀 about me
 
-software engineer who also enjoys [music](https://last.fm/user/beatreams) and reading.
+software engineer who enjoys [music](https://last.fm/user/beatreams) and reading.
 
 <br>
 
 ## 🌱 projects
 
 📚 [literalog](https://github.com/literalog): a logbook for your literary explorations. <br>
-📁 [wise](https://github.com/literalog/go-wise): database abstraction for go <br>
+📁 [wise](https://github.com/literalog/go-wise): database abstraction for go. <br>
 📷 [distortion](https://github.com/beatrizrdgs/distortion): web-based app for manipulating images. <br>
 
 <br>

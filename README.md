@@ -4,16 +4,15 @@
 
 ## 🚀 about me
 
-i'm a software engineering undergraduate.<br>
-constantly exploring new technologies to expand my skill set.<br>
-i also enjoy [music](https://last.fm/user/beatreams) and reading.
+software engineer who also enjoys [music](https://last.fm/user/beatreams) and reading.
 
 <br>
 
-## 🌱 current projects
+## 🌱 projects
 
 📚 [literalog](https://github.com/literalog): a logbook for your literary explorations. <br>
-📷 [image messer](https://github.com/beatrizrdgs/image-messer): app for manipulating images. <br>
+📁 [wise](https://github.com/literalog/go-wise): database abstraction for go <br>
+📷 [distortion](https://github.com/beatrizrdgs/distortion): web-based app for manipulating images. <br>
 
 <br>
 
